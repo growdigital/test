@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Test",
+    "description": "",
+    "home_page_url": "https://growdigital.github.io/test",
+    "feed_url": "https://growdigital.github.io/test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jake Rayson"
+    },
+    "items": [
+        {
+            "id": "https://growdigital.github.io/test/test-post.html",
+            "url": "https://growdigital.github.io/test/test-post.html",
+            "title": "Test post",
+            "summary": "Blah blah blah. Give me a list and another list and some more list",
+            "content_html": "<p>Blah blah blah.</p>\n<ul>\n<li>Give me a list</li>\n<li>and another list</li>\n<li>and some more list</li>\n</ul>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://res.cloudinary.com/growdigital/image/upload/v1738664623/250201-track_aawhqx.jpg\" alt=\"\" width=\"1024\" height=\"576\" data-is-external-image=\"true\"></figure>",
+            "author": {
+                "name": "Jake Rayson"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-14T21:59:24+00:00",
+            "date_modified": "2025-03-14T21:59:24+00:00"
+        }
+    ]
+}
